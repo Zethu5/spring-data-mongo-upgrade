@@ -1,0 +1,10 @@
+com\example\catalog\BookRepository.class
+com\example\catalog\upgrades\DatabaseUpgrade.class
+com\example\catalog\CatalogApplication.class
+com\example\catalog\upgrades\UpgradeToV1_0_0.class
+com\example\catalog\upgrades\UpgradeToV1_2_3.class
+com\example\catalog\Book$Author.class
+com\example\catalog\UpgradeRunner.class
+com\example\catalog\upgrades\UpgradeToV2_0_1.class
+com\example\catalog\Book.class
+com\example\catalog\UpgradeLock.class

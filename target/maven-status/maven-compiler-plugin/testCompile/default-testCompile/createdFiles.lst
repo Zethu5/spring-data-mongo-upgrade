@@ -1,0 +1,4 @@
+com\example\catalog\BookFieldNamesTest.class
+com\example\catalog\CatalogIntegrationTest.class
+com\example\catalog\UpgradeRunnerTest.class
+com\example\catalog\upgrades\UpgradeSafetyTest.class

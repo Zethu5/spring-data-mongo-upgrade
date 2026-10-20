@@ -1,0 +1,9 @@
+E:\Projects\spring-data-mongo-upgrade\src\main\java\com\example\catalog\Book.java
+E:\Projects\spring-data-mongo-upgrade\src\main\java\com\example\catalog\BookRepository.java
+E:\Projects\spring-data-mongo-upgrade\src\main\java\com\example\catalog\CatalogApplication.java
+E:\Projects\spring-data-mongo-upgrade\src\main\java\com\example\catalog\UpgradeLock.java
+E:\Projects\spring-data-mongo-upgrade\src\main\java\com\example\catalog\UpgradeRunner.java
+E:\Projects\spring-data-mongo-upgrade\src\main\java\com\example\catalog\upgrades\DatabaseUpgrade.java
+E:\Projects\spring-data-mongo-upgrade\src\main\java\com\example\catalog\upgrades\UpgradeToV1_0_0.java
+E:\Projects\spring-data-mongo-upgrade\src\main\java\com\example\catalog\upgrades\UpgradeToV1_2_3.java
+E:\Projects\spring-data-mongo-upgrade\src\main\java\com\example\catalog\upgrades\UpgradeToV2_0_1.java
